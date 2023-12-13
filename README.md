@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomatoboy-hub&layout=compact&theme=dracula" />
 </a>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tomatoboy-hub&theme=darcula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
